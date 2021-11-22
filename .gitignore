@@ -1,0 +1,5 @@
+# dependencies
+cypress/screenshots/*
+cypress/videos/Regression_sute/*
+/node_modules
+cypress/reports/*

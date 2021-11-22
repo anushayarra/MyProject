@@ -1,0 +1,6 @@
+{
+  "watchForFileChanges": false,
+  "defalutCommandTimeout": 20000,
+  "chromeWebSecurity": false,
+  "baseUrl":"https://petstore.swagger.io/v2/"
+}

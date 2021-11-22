@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  },
+
+"scripts": {
+  "test-run:basicSuite": "cypress run 'cypress/integration/Regression_suite/basicSuite.spec.js'",
+  "test-open:basicSuite": "cypress open 'cypress/integration/Regression_suite/basicSuite.spec.js'",
+  "lint": "eslint \"cypress/**/*.js\""
+}
+}
